@@ -150,35 +150,35 @@ function App() {
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 gap-8">
               {[
                 {
-                  src: "/imagen1.png",
+                  src: "/Imagen1.png",
                   frase: `"You're the only one I trust with my heart." — *As You Are*`,
                 },
                 {
-                  src: "/imagen2.png",
+                  src: "/Imagen2.png",
                   frase: `"I just wanna see you shine 'cause I know you're a stargirl." — *Stargirl Interlude*`,
                 },
                 {
-                  src: "/imagen3.jpg",
+                  src: "/Imagen3.jpg",
                   frase: `"I'm finding ways to articulate the feeling I'm goin' through." — *Die For You*`,
                 },
                 {
-                  src: "/imagen4.png",
+                  src: "/Imagen4.png",
                   frase: `"When I'm faded I forget, forget what you mean to me." — *Call Out My Name*`,
                 },
                 {
-                  src: "/imagen5.png",
+                  src: "/Imagen5.png",
                   frase: `"I’ve been the hardest to love, you try to let me go." — *Hardest To Love*`,
                 },
                 {
-                  src: "/imagen6.jpg",
+                  src: "/Imagen6.jpg",
                   frase: `"Even though we’re going through it, just know that I would die for you." — *Die For You*`,
                 },
                 {
-                  src: "/imagen7.jpg",
+                  src: "/Imagen7.jpg",
                   frase: `"Let me show you who I am, let me take you out tonight." — *As You Are*`,
                 },
                 {
-                  src: "/imagen8.png",
+                  src: "/Imagen8.png",
                   frase: `"This ain't no regular love, this unconditional." — *Earned It*`,
                 }
 
